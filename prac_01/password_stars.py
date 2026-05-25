@@ -12,3 +12,5 @@ def display_password(password: str):
 def get_password() -> str:
     password = input("Enter a password: ")
     return password
+
+main()
