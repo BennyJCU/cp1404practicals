@@ -31,4 +31,4 @@ def run_tests():
           f"{another_guitar.is_vintage()}")
 
 
-run_tests()
+# run_tests()
