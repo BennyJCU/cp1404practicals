@@ -1,7 +1,7 @@
 # Practical 07
 By: Benny Cha
 
-Repo contains ProgrammingLanguage class and CSV file
+Repo contains ProgrammingLanguage class, Guitar class and CSV files
 
 ### Lessons Learnt to make clean code
 
